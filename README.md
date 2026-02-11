@@ -5,8 +5,9 @@ I specialize in **Python automation**, **Arch Linux customization**, and maintai
 
 
 ### 💻 My Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![ThinkPad](https://img.shields.io/badge/ThinkPad-%23E1111A.svg?style=for-the-badge&logo=lenovo&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <details>
