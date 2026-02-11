@@ -1,5 +1,5 @@
 # Hi, I'm Chris! 👋
-## Engineer Wrangler | Python Developer | Linux Enthusiast
+## Engineer Wrangler | Wannabe Developer | Linux Enthusiast
 
 I specialize in **Python automation**, **Arch Linux customization**, and maintaining complex semiconductor tooling.
 
