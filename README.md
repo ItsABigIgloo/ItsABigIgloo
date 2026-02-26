@@ -14,10 +14,9 @@ I specialize in **High Performance Manufacturing**, **ALD/CVD/PVD Tooling**, and
 <details>
   <summary> My Interests!</summary>
   
-  ### Performance Projects
-  - Infiniti Q50 ECU Tuning
-  - Custom 3D Printed Fairing Parts (ASA Filament)
-  - to be continued(this is all a work in progress)
+  - Motorcycles!
+  - Linux!
+  - 3D Printing!
   
 </details>
 
