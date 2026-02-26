@@ -11,7 +11,7 @@ I specialize in **Python automation**, **Arch Linux customization**, and maintai
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <details>
-  <summary>🏎️ My Current Projects & Hardware</summary>
+  <summary> My Interests!</summary>
   
   ### Performance Projects
   - Infiniti Q50 ECU Tuning
