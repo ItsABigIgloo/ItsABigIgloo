@@ -1,7 +1,7 @@
 # Hi, I'm Chris! 👋
-## Engineer Wrangler | Wannabe Developer | Linux Enthusiast
+## Microsoft Hater | Wannabe Developer | Linux Enthusiast
 
-I specialize in **Python automation**, **Arch Linux customization**, and maintaining complex **Semiconductor Tooling.**
+I specialize in **High Performance Manufacturing**, **ALD/CVD/PVD Tooling**, and maintaining complex **deploying Experimental Processes**
 
 
 ### 💻 My Tools
