@@ -1,7 +1,7 @@
 # Hi, I'm Chris! 👋
 ## Microsoft Hater | Wannabe Developer | Linux Enthusiast
 
-I specialize in **High Performance Manufacturing**, **ALD/CVD/PVD Tooling**, and maintaining complex **deploying Experimental Processes**
+I specialize in **High Performance Manufacturing**, **ALD/CVD/PVD Tooling**, and maintaining complex **Experimental Processes**
 
 
 ### 💻 My Tools
